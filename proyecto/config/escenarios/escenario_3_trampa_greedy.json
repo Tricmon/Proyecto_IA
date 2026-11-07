@@ -1,0 +1,34 @@
+{
+  "nombre": "Escenario 3 - Trampa Greedy",
+  "descripcion": "Corredor directo con celdas de costo 5 donde Greedy cae cegado por Manhattan frente a un desvio de bajo costo (1) que descubre A*.",
+  "filas": 12,
+  "columnas": 12,
+  "inicio": [0, 0],
+  "destino": [0, 11],
+  "entregas": [
+    [1, 9],
+    [3, 3],
+    [5, 8],
+    [7, 2],
+    [9, 8],
+    [11, 11]
+  ],
+  "capacidad_recurso": 80.0,
+  "penalizacion_exceso_recurso": 10.0,
+  "punto_recarga": [6, 6],
+  "costo_base_recarga": 15.0,
+  "cuadricula": [
+    [1, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 1],
+    [2, 5, 5, 5, 5, 5, 5, 5, 5, 1, 5, 2],
+    [2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2],
+    [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+    [0, 0, 0, 0, 0, 0, 0, 1, 0, 5, 5, 5],
+    [5, 5, 5, 5, 5, 5, 0, 1, 1, 5, 5, 5],
+    [5, 5, 5, 5, 5, 5, 1, 0, 1, 5, 5, 5],
+    [5, 5, 1, 5, 5, 5, 0, 0, 1, 5, 5, 5],
+    [5, 5, 1, 0, 0, 0, 0, 0, 1, 5, 5, 5],
+    [5, 5, 1, 1, 1, 1, 1, 1, 1, 5, 5, 5],
+    [5, 5, 5, 1, 0, 0, 0, 0, 0, 5, 5, 5],
+    [5, 5, 5, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+  ]
+}

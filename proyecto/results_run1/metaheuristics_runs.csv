@@ -1,0 +1,41 @@
+metodo,ejecucion,semilla,presupuesto_evaluaciones,parametros,mejor_costo,costo_base,penalizacion,evaluaciones,tiempo_seg,alcanzo_optimo
+Recocido Simulado,1,42,1000,"T0=100, alfa=0.95",50.0,50.0,0.0,1000,0.004133,False
+Recocido Simulado,2,43,1000,"T0=100, alfa=0.95",47.0,47.0,0.0,1000,0.003535,True
+Recocido Simulado,3,44,1000,"T0=100, alfa=0.95",51.0,51.0,0.0,1000,0.004082,False
+Recocido Simulado,4,45,1000,"T0=100, alfa=0.95",50.0,50.0,0.0,1000,0.003627,False
+Recocido Simulado,5,46,1000,"T0=100, alfa=0.95",51.0,51.0,0.0,1000,0.004235,False
+Recocido Simulado,6,47,1000,"T0=100, alfa=0.95",47.0,47.0,0.0,1000,0.003776,True
+Recocido Simulado,7,48,1000,"T0=100, alfa=0.95",47.0,47.0,0.0,1000,0.003816,True
+Recocido Simulado,8,49,1000,"T0=100, alfa=0.95",47.0,47.0,0.0,1000,0.004197,True
+Recocido Simulado,9,50,1000,"T0=100, alfa=0.95",47.0,47.0,0.0,1000,0.004727,True
+Recocido Simulado,10,51,1000,"T0=100, alfa=0.95",47.0,47.0,0.0,1000,0.004422,True
+Recocido Simulado,11,52,1000,"T0=100, alfa=0.95",47.0,47.0,0.0,1000,0.004463,True
+Recocido Simulado,12,53,1000,"T0=100, alfa=0.95",47.0,47.0,0.0,1000,0.00437,True
+Recocido Simulado,13,54,1000,"T0=100, alfa=0.95",47.0,47.0,0.0,1000,0.005019,True
+Recocido Simulado,14,55,1000,"T0=100, alfa=0.95",47.0,47.0,0.0,1000,0.00441,True
+Recocido Simulado,15,56,1000,"T0=100, alfa=0.95",47.0,47.0,0.0,1000,0.00376,True
+Recocido Simulado,16,57,1000,"T0=100, alfa=0.95",47.0,47.0,0.0,1000,0.004051,True
+Recocido Simulado,17,58,1000,"T0=100, alfa=0.95",47.0,47.0,0.0,1000,0.004006,True
+Recocido Simulado,18,59,1000,"T0=100, alfa=0.95",47.0,47.0,0.0,1000,0.003895,True
+Recocido Simulado,19,60,1000,"T0=100, alfa=0.95",47.0,47.0,0.0,1000,0.004127,True
+Recocido Simulado,20,61,1000,"T0=100, alfa=0.95",47.0,47.0,0.0,1000,0.0045,True
+Algoritmo Genético,1,542,1000,"Pob=20, OX=0.9, Mut=0.2",47.0,47.0,0.0,1000,0.013476,True
+Algoritmo Genético,2,543,1000,"Pob=20, OX=0.9, Mut=0.2",47.0,47.0,0.0,1000,0.014147,True
+Algoritmo Genético,3,544,1000,"Pob=20, OX=0.9, Mut=0.2",47.0,47.0,0.0,1000,0.014411,True
+Algoritmo Genético,4,545,1000,"Pob=20, OX=0.9, Mut=0.2",52.0,52.0,0.0,1000,0.013965,False
+Algoritmo Genético,5,546,1000,"Pob=20, OX=0.9, Mut=0.2",52.0,52.0,0.0,1000,0.013854,False
+Algoritmo Genético,6,547,1000,"Pob=20, OX=0.9, Mut=0.2",47.0,47.0,0.0,1000,0.01459,True
+Algoritmo Genético,7,548,1000,"Pob=20, OX=0.9, Mut=0.2",52.0,52.0,0.0,1000,0.013367,False
+Algoritmo Genético,8,549,1000,"Pob=20, OX=0.9, Mut=0.2",52.0,52.0,0.0,1000,0.012361,False
+Algoritmo Genético,9,550,1000,"Pob=20, OX=0.9, Mut=0.2",47.0,47.0,0.0,1000,0.011114,True
+Algoritmo Genético,10,551,1000,"Pob=20, OX=0.9, Mut=0.2",47.0,47.0,0.0,1000,0.010272,True
+Algoritmo Genético,11,552,1000,"Pob=20, OX=0.9, Mut=0.2",47.0,47.0,0.0,1000,0.01129,True
+Algoritmo Genético,12,553,1000,"Pob=20, OX=0.9, Mut=0.2",47.0,47.0,0.0,1000,0.010702,True
+Algoritmo Genético,13,554,1000,"Pob=20, OX=0.9, Mut=0.2",47.0,47.0,0.0,1000,0.010605,True
+Algoritmo Genético,14,555,1000,"Pob=20, OX=0.9, Mut=0.2",47.0,47.0,0.0,1000,0.011994,True
+Algoritmo Genético,15,556,1000,"Pob=20, OX=0.9, Mut=0.2",47.0,47.0,0.0,1000,0.014307,True
+Algoritmo Genético,16,557,1000,"Pob=20, OX=0.9, Mut=0.2",52.0,52.0,0.0,1000,0.014366,False
+Algoritmo Genético,17,558,1000,"Pob=20, OX=0.9, Mut=0.2",54.0,54.0,0.0,1000,0.013695,False
+Algoritmo Genético,18,559,1000,"Pob=20, OX=0.9, Mut=0.2",47.0,47.0,0.0,1000,0.012132,True
+Algoritmo Genético,19,560,1000,"Pob=20, OX=0.9, Mut=0.2",52.0,52.0,0.0,1000,0.010085,False
+Algoritmo Genético,20,561,1000,"Pob=20, OX=0.9, Mut=0.2",52.0,52.0,0.0,1000,0.010064,False

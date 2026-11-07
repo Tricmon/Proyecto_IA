@@ -1,0 +1,34 @@
+{
+  "nombre": "Escenario 2 - Muchos Obstaculos",
+  "descripcion": "Mapa 12x12 con alta densidad de obstaculos, pasillos estrechos y laberintos que ponen a prueba la exploracion.",
+  "filas": 12,
+  "columnas": 12,
+  "inicio": [0, 0],
+  "destino": [11, 11],
+  "entregas": [
+    [0, 11],
+    [3, 5],
+    [5, 1],
+    [7, 10],
+    [9, 2],
+    [11, 6]
+  ],
+  "capacidad_recurso": 85.0,
+  "penalizacion_exceso_recurso": 10.0,
+  "punto_recarga": [6, 6],
+  "costo_base_recarga": 15.0,
+  "cuadricula": [
+    [1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 1, 1],
+    [0, 1, 0, 1, 0, 1, 0, 1, 0, 0, 0, 1],
+    [1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1],
+    [1, 0, 0, 0, 0, 1, 0, 1, 0, 1, 0, 0],
+    [1, 1, 1, 1, 0, 1, 0, 1, 1, 1, 1, 1],
+    [0, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 1],
+    [1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 0, 1],
+    [1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1],
+    [1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 0],
+    [0, 0, 1, 0, 0, 1, 0, 1, 0, 1, 1, 1],
+    [1, 1, 1, 0, 1, 1, 1, 1, 0, 0, 0, 1],
+    [1, 0, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1]
+  ]
+}

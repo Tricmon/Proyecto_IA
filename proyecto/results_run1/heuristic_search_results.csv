@@ -1,0 +1,9 @@
+escenario,metodo,origen,destino,encontrado,costo,longitud_pasos,nodos_expandidos,tiempo_seg
+Escenario 1 - Facil,ASTAR,"(0, 0)","(11, 11)",True,23,23,59,0.000411
+Escenario 1 - Facil,GREEDY,"(0, 0)","(11, 11)",True,32,27,28,0.000174
+Escenario 2 - Muchos Obstaculos,ASTAR,"(0, 0)","(11, 11)",True,24,25,32,0.000173
+Escenario 2 - Muchos Obstaculos,GREEDY,"(0, 0)","(11, 11)",True,26,27,27,0.000139
+Escenario 3 - Trampa Greedy,ASTAR,"(0, 0)","(0, 11)",True,21,18,22,0.000131
+Escenario 3 - Trampa Greedy,GREEDY,"(0, 0)","(0, 11)",True,51,12,12,8.3e-05
+Escenario 4 - Sin Solucion,ASTAR,"(0, 0)","(11, 11)",False,INF,0,127,0.000744
+Escenario 4 - Sin Solucion,GREEDY,"(0, 0)","(11, 11)",False,INF,0,127,0.000675

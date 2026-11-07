@@ -1,0 +1,3 @@
+metodo,presupuesto_evaluaciones,configuracion_parametros,optimo_global_referencia,mejor_costo,peor_costo,promedio_costo,desv_est_costo,promedio_tiempo_seg,evaluaciones_promedio,tasa_exito_optimo
+Recocido Simulado,1000,"T0=100.0, alfa=0.95, Tfin=0.01",47.0,47.0,51.0,47.7,1.455,0.00416,1000,16/20 (80.0%)
+Algoritmo Genético,1000,"Pob=20, Torneo=3, Cruza=0.9, Mut=0.2",47.0,47.0,54.0,49.1,2.673,0.01254,1000,12/20 (60.0%)

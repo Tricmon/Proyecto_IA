@@ -1,0 +1,10 @@
+﻿Estrategia_J1,Estrategia_J2,Pago_J1,Pago_J2,Es_Nash,Tipo_Equilibrio,Seleccionado_Pipeline,Es_Mejor_Respuesta_J1,Es_Mejor_Respuesta_J2
+A0: Directa (Alta recarga),B0: Ocupación Estación,48.0,52.0,False,No es Nash,False,False,False
+A0: Directa (Alta recarga),B1: Uso Compartido,63.0,60.0,True,Débil (Empate),False,True,True
+A0: Directa (Alta recarga),B2: Operación Periférica,73.0,60.0,True,Débil (Empate),True,True,True
+A1: Equilibrada (Media recarga),B0: Ocupación Estación,55.0,57.0,False,No es Nash,False,False,False
+A1: Equilibrada (Media recarga),B1: Uso Compartido,63.0,64.0,True,Débil (Empate),False,True,True
+A1: Equilibrada (Media recarga),B2: Operación Periférica,67.0,60.0,False,No es Nash,False,False,False
+A2: Conservadora (Cero recarga / Desvío),B0: Ocupación Estación,58.0,72.0,True,Estricto,False,True,True
+A2: Conservadora (Cero recarga / Desvío),B1: Uso Compartido,58.0,68.0,False,No es Nash,False,False,False
+A2: Conservadora (Cero recarga / Desvío),B2: Operación Periférica,58.0,60.0,False,No es Nash,False,False,False

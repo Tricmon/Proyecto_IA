@@ -1,0 +1,34 @@
+{
+  "nombre": "Escenario 1 - Facil",
+  "descripcion": "Cuadricula 12x12 con obstaculos moderados, costos de 1 a 5 y caminos transitables hacia todos los objetivos.",
+  "filas": 12,
+  "columnas": 12,
+  "inicio": [0, 0],
+  "destino": [11, 11],
+  "entregas": [
+    [1, 5],
+    [3, 8],
+    [6, 2],
+    [7, 9],
+    [9, 4],
+    [10, 1]
+  ],
+  "capacidad_recurso": 80.0,
+  "penalizacion_exceso_recurso": 10.0,
+  "punto_recarga": [5, 5],
+  "costo_base_recarga": 15.0,
+  "cuadricula": [
+    [1, 1, 1, 2, 2, 1, 1, 1, 2, 1, 1, 1],
+    [1, 0, 1, 1, 2, 1, 0, 1, 2, 1, 0, 1],
+    [1, 0, 1, 2, 3, 2, 1, 1, 1, 1, 1, 1],
+    [1, 1, 1, 2, 0, 2, 1, 1, 1, 2, 2, 1],
+    [2, 2, 1, 1, 0, 1, 1, 2, 3, 2, 1, 1],
+    [1, 1, 2, 1, 1, 1, 2, 3, 0, 1, 1, 1],
+    [1, 2, 1, 1, 2, 1, 1, 2, 0, 2, 1, 1],
+    [1, 1, 1, 3, 2, 1, 1, 1, 1, 1, 2, 1],
+    [2, 0, 1, 2, 1, 1, 3, 2, 1, 2, 1, 1],
+    [1, 0, 1, 1, 1, 2, 2, 1, 1, 1, 0, 1],
+    [1, 1, 2, 1, 1, 0, 1, 1, 2, 1, 0, 1],
+    [1, 1, 1, 2, 1, 0, 1, 1, 1, 2, 1, 1]
+  ]
+}

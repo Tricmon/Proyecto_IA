@@ -1,0 +1,27 @@
+{
+  "semilla_global": 55,
+  "busqueda_local": {
+    "num_soluciones_iniciales": 10,
+    "max_iteraciones_sin_mejora": 100
+  },
+  "metaheuristicas": {
+    "num_ejecuciones": 20,
+    "presupuesto_evaluaciones": 1000,
+    "recocido": {
+      "temperatura_inicial": 100.0,
+      "temperatura_final": 0.01,
+      "alfa": 0.95
+    },
+    "genetico": {
+      "tamano_poblacion": 20,
+      "tamano_torneo": 3,
+      "prob_cruza": 0.9,
+      "prob_mutacion": 0.2
+    }
+  },
+  "minimax": {
+    "unidades_recurso": 7,
+    "max_por_turno": 3,
+    "limite_profundidad": 4
+  }
+}

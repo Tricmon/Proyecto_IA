@@ -1,0 +1,13 @@
+configuracion,orden_jugadas,semilla,recurso_inicial,limite_profundidad,valor_minimax,valor_alfa_beta,son_iguales,accion_optima_max,nodos_minimax,nodos_alfa_beta,podas_alfa_beta,reduccion_nodos_pct,tiempo_minimax_ms,tiempo_alfa_beta_ms
+Profundidad 2,"[3,2,1]",42,7,2,2.0,2.0,True,3,13,9,2,30.77,0.0631,0.0284
+Profundidad 2,"[1,2,3]",42,7,2,2.0,2.0,True,3,13,13,0,0.0,0.0197,0.0191
+Profundidad 2,Aleatorio,42,7,2,2.0,2.0,True,3,13,9,2,30.77,0.0852,0.0627
+Profundidad 3,"[3,2,1]",42,7,3,15.0,15.0,True,3,36,17,4,52.78,0.058,0.033
+Profundidad 3,"[1,2,3]",42,7,3,15.0,15.0,True,1,36,36,2,0.0,0.0472,0.0496
+Profundidad 3,Aleatorio,42,7,3,15.0,15.0,True,3,36,25,4,30.56,0.2068,0.1665
+Profundidad 4,"[3,2,1]",42,7,4,15.0,15.0,True,3,67,20,7,70.15,0.1027,0.0361
+Profundidad 4,"[1,2,3]",42,7,4,15.0,15.0,True,2,67,65,11,2.99,0.092,0.0942
+Profundidad 4,Aleatorio,42,7,4,15.0,15.0,True,3,67,27,8,59.7,0.4226,0.2462
+Árbol Completo,"[3,2,1]",42,7,Ninguno,15.0,15.0,True,3,96,20,7,79.17,0.1736,0.0398
+Árbol Completo,"[1,2,3]",42,7,Ninguno,15.0,15.0,True,2,96,96,15,0.0,0.1503,0.1618
+Árbol Completo,Aleatorio,42,7,Ninguno,15.0,15.0,True,3,96,34,10,64.58,0.7433,0.2919
